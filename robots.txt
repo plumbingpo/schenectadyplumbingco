@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://schenectadyplumbingco.com/sitemap.xml
